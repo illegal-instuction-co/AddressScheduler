@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Ara dizin (x64\Release\) başka bir projeden (AddressScheluder.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  main.cpp
+  Kod üretiliyor
+  1 of 203 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  AddressScheluder.vcxproj -> C:\Users\PC\source\repos\AddressScheluder\x64\Release\AddressScheduler.exe
